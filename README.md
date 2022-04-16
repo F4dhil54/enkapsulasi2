@@ -1,1 +1,12 @@
-# enkapsulasi2
+LATIHAN 1
+![latihan 1](https://user-images.githubusercontent.com/103545327/163662025-ed49b761-63e1-401b-a41c-71d9e6d45c0f.png)
+LATIHAN 2
+![latihhan 2](https://user-images.githubusercontent.com/103545327/163662035-a8b53175-4179-47c9-a836-09b154da34d6.png)
+LATIHAN 3
+![latihan 3](https://user-images.githubusercontent.com/103545327/163662043-d335b1ad-0771-4d49-9f08-29ff32518657.png)
+LATIHAN 4
+![latihan 4](https://user-images.githubusercontent.com/103545327/163662045-a8ac24ee-4d0a-4e81-9ff8-79bc4d1b2e2b.png)
+PRATIKUM 1
+![pratikum 1](https://user-images.githubusercontent.com/103545327/163662048-43209aa2-c347-498e-8b26-947a69556dab.png)
+PRATIKUM 2
+![pratikum 2](https://user-images.githubusercontent.com/103545327/163662049-9b58e423-ff69-4cbd-83af-a3b56ef6a9c3.png)
